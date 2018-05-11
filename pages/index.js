@@ -8,6 +8,7 @@ const MapCharacters = props => {
       <div>
         <h3>Name: {e.name}</h3>
         <h4>height: {e.height}</h4>
+        <button>delete</button>
         {/* <style jsx>{``}</style> */}
       </div>
     );

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^6.0.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "name": "NextJs-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
